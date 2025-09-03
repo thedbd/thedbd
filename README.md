@@ -12,7 +12,7 @@
 ### 🛠️ Tech Stack & Tools
 - **Languages:** Java | Python | Go
 - **Frameworks:** Spring Boot | React | Node.js
-- **DevOps & Cloud:** Linux| Docker | Kubernetes | Jenkins | AWS
+- **DevOps & Cloud:** Linux | Docker | Kubernetes | Jenkins | AWS
 
 ---
 
